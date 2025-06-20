@@ -1,0 +1,41 @@
+## **Web-based OSINT tools**
+
+- General OSINT tools
+    - Google Dork → https://github.com/topics/google-dork
+    - Spiderfoot → https://github.com/smicallef/spiderfoot
+    - Maltego → https://www.maltego.com/blog/beginners-guide-to-maltego-setting-up-maltego-community-edition-ce/
+    - Social engineering toolkit → https://github.com/trustedsec/social-engineer-toolkit
+    - Sublist3r→ https://github.com/aboul3la/Sublist3r
+    - ThatsThem → https://thatsthem.com/
+- Image OSINT tools
+    - Exiftool → https://github.com/exiftool/exiftool
+    - Google Reverse Image Search → https://github.com/topics/reverse-image-search
+    - FLickr → https://www.flickr.com/
+    - Tineye → https://tineye.com/
+- Email address OSINT tools
+    - HaveIBeenPwned → https://haveibeenpwned.com/
+- Username OSINT tools
+    - Hunter.io → https://hunter.io/
+    - WhatsmyName → https://whatsmyname.app/
+    - NameCHK → https://namechk.com/
+    - Sherlock → https://github.com/sherlock-project/sherlock
+    - OSINTgram → https://github.com/Datalux/Osintgram
+- Domain OSINT tools
+    - WhoIs → https://who.is/
+    - URLScan.io → https://urlscan.io/
+    - IpInfo.io → https://ipinfo.io/
+    - VirusTotal → https://www.virustotal.com/gui/home/upload
+    - WebCheck tool → https://web-check.xyz/
+- Phone Number OSINT tools
+    - Truecaller → https://www.truecaller.com/
+    - Osint Industries → https://osint.industries/
+    - PhoneInfoga → https://github.com/sundowndev/phoneinfoga
+    - Epieos → https://epieos.com/
+- GeOSINT tools
+    - SnapMap → https://map.snapchat.com/
+    - Google maps → [https://www.google.com/map](https://www.google.com/maps)
+    - Geocoding → https://github.com/topics/geocoding
+    - Instahunt → https://instahunt.co/
+- Resources for the Image OSINT exercise:
+    
+    https://www.flickr.com/photos/147564413@N04/50041509442/in/pool-iphonephotography/
